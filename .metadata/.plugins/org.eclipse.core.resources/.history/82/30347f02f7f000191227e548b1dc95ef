@@ -1,0 +1,18 @@
+package meniu.com;
+
+import java.util.Scanner;
+
+
+public class Main {
+
+	public static void main(String[] args) {
+			Scanner sc = new Scanner(System.in);
+			System.out.println("Meniu Restaurant Memorandului:");
+			System.out.println("Optiunea 1: Carne de pui");
+			System.out.println("Optiunea 2: Carne de porc");
+			System.out.println("Optiunea 3: Peste la gratar");
+			System.out.println("Optiunea 4: Cartofi");
+
+	}
+
+}
